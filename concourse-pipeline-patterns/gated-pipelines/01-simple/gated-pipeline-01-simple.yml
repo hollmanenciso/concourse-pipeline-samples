@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/pivotalservices/concourse-pipeline-samples.git
+    uri: https://github.com/hollmanenciso/concourse-pipeline-samples.git
 
 jobs:
 - name: Run-automatically
