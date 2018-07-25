@@ -23,7 +23,7 @@ jobs:
         args:
         - -exc
         - |
-          echo "Double check the automation"
+          echo "Double check the automation v2"
 
 
 - name: Manually-trigger-me
